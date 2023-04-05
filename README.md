@@ -1,7 +1,7 @@
 # nFactorial School Seminar on April-4, 2023
 
-## Topic: NodeJS/Eexpress
-## Lecturer: [Samat Kalshabekov] (https://github.com/Fatdrfrog)
+### Topic: NodeJS/Eexpress
+### Lecturer: [Samat Kalshabekov](https://github.com/Fatdrfrog)
 
 I practice usage of:
 - middlewares, 
